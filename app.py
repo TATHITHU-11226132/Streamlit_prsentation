@@ -9,6 +9,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report
 import warnings
 warnings.filterwarnings('ignore')
+# yeu thuan
 
 # Tiêu đề ứng dụng
 st.title("Phân tích và Dự đoán PEP với Streamlit")
