@@ -9,10 +9,9 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report
 import warnings
 warnings.filterwarnings('ignore')
-# yeu thuan
 
 # Tiêu đề ứng dụng
-st.title("Phân tích và Dự đoán PEP với Streamlit")
+st.title("Phân tích Và Dự đoán PEP với Streamlit")
 
 # 1. Load dữ liệu từ file CSV
 st.header("1. Load dữ liệu từ file CSV")
